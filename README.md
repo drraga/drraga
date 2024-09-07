@@ -15,7 +15,8 @@
 
 - 📫 How to reach me / Мои контакты:
   </br>
-  telegram: https://telegram.me/peter_losev 
+  telegram: https://telegram.me/peter_losev
+  </br>
   phone: +7 (906) 436-74-09
 
 - Codewars: <img width="130" alt="Screenshot 2024-09-07 at 18 13 04" src="https://github.com/user-attachments/assets/972387ee-bd4e-47d5-8211-793c4b0960b3">
