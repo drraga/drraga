@@ -25,10 +25,10 @@
 My Stack:
 
 <a href="https://github.com/drraga/convoychat">
-  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=drraga&theme=vue-dark&show_icons=true" />
+  <img align="center" width="300" height="130" src="https://github-readme-stats.vercel.app/api?username=drraga&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/drraga/convoychat">
-  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=drraga&layout=compact&langs_count=8&card_width=320" />
+  <img align="center" width="300" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=drraga&layout=compact&langs_count=8" />
 </a>
 
 <!--
