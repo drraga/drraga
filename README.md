@@ -6,9 +6,9 @@
   </br>
 - I'm currently working on budget app.
 
-- 🌱 В настоящее время изучаю React.
+- 🌱 Изучаю React.
   </br>
-   I’m currently learning React.
+   Learning React.
 
 - 👯 Ищу проекты на Vue3 или React для совместной работы.
 </br>
