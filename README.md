@@ -1,6 +1,4 @@
 # Hi there, I'm Peter Losev 👋
----
-
 
 - 🔧 В настоящее время работаю над приложением учета финансов.
   </br>
@@ -14,7 +12,7 @@
 </br>I’m looking to collaborate on Vue3 or React projects
  
 
-- 💬 Ask me about ...
+- 💬 Ask me about anything
 
 - 📫 Мои контакты \ How to reach me :
   </br>
@@ -32,6 +30,7 @@ My Stack:
 - 🔧 I'm currently working on budget app.
 - 🔧 В настоящее время работаю над приложением учетов финансов.
 
+
 - 🌱 I’m currently learning React.
 - 🌱 В настоящее время изучаю React.
 
@@ -47,6 +46,6 @@ My Stack:
 - Codewars: <img width="130" alt="Screenshot 2024-09-07 at 18 13 04" src="https://github.com/user-attachments/assets/972387ee-bd4e-47d5-8211-793c4b0960b3">
 
 My Stack:
-
+![git](https://github.com/user-attachments/assets/c822a1a6-07d1-4b73-892c-477399ceb110)
 
 -->
