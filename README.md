@@ -2,14 +2,18 @@
 ---
 
 
-- 🔧 I'm currently working on budget app.
-- 🔧 В настоящее время работаю над приложением учетов финансов.
+- 🔧 В настоящее время работаю над приложением учета финансов.
+  </br>
+- I'm currently working on budget app.
 
-- 🌱 I’m currently learning React.
 - 🌱 В настоящее время изучаю React.
+  </br>
+   I’m currently learning React.
 
-- 👯 I’m looking to collaborate on Vue3 or React projects
 - 👯 Ищу проекты на Vue3 или React для совместной работы.
+</br>
+- I’m looking to collaborate on Vue3 or React projects
+ 
 
 - 💬 Ask me about ...
 
