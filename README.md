@@ -16,7 +16,7 @@
 
 - 💬 Ask me about ...
 
-- 📫 How to reach me / Мои контакты:
+- 📫 Мои контакты \ How to reach me :
   </br>
   telegram: https://telegram.me/peter_losev
   </br>
