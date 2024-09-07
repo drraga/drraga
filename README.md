@@ -23,7 +23,7 @@
 - Codewars: <img width="130" alt="Screenshot 2024-09-07 at 18 13 04" src="https://github.com/user-attachments/assets/972387ee-bd4e-47d5-8211-793c4b0960b3">
 
 My Stack:
-<img width="20" alt="git" scr="https://github.com/user-attachments/assets/22ce2669-1507-4b0d-9816-f95e6a82a2e7">
+![git](https://github.com/user-attachments/assets/33c7e8a7-6b18-4dcf-a6f1-5e26c666f541 =20x20)
 
 
 <!--
