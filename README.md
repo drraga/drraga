@@ -24,7 +24,7 @@
 
 My Stack:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drraga&theme=vue-dark&show_icons=true width="315" height="101")
+![Draga's GitHub stats](https://github-readme-stats.vercel.app/api?username=drraga&theme=vue-dark&show_icons=true&width=315&height=101)
 
 <!--
 **drraga/drraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
