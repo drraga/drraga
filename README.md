@@ -24,12 +24,11 @@
 
 My Stack:
 
-![Draga's GitHub stats](https://github-readme-stats.vercel.app/api?username=drraga&theme=vue-dark&show_icons=true)
 <a href="https://github.com/drraga/convoychat">
   <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=drraga&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=drraga" />
 </a>
 
 <!--
