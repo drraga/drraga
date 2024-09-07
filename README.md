@@ -11,8 +11,7 @@
    Learning React.
 
 - 👯 Ищу проекты на Vue3 или React для совместной работы.
-</br>
-  I’m looking to collaborate on Vue3 or React projects
+</br>I’m looking to collaborate on Vue3 or React projects
  
 
 - 💬 Ask me about ...
