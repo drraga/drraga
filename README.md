@@ -4,7 +4,7 @@
 
 - 🔧 В настоящее время работаю над приложением учета финансов.
   </br>
-- I'm currently working on budget app.
+  I'm currently working on budget app.
 
 - 🌱 Изучаю React.
   </br>
@@ -12,7 +12,7 @@
 
 - 👯 Ищу проекты на Vue3 или React для совместной работы.
 </br>
-- I’m looking to collaborate on Vue3 or React projects
+  I’m looking to collaborate on Vue3 or React projects
  
 
 - 💬 Ask me about ...
