@@ -13,7 +13,8 @@
 
 - 💬 Ask me about ...
 
-- 📫 How to reach me / Мои контакты: 
+- 📫 How to reach me / Мои контакты:
+  </br>
   telegram: https://telegram.me/peter_losev 
   phone: +7 (906) 436-74-09
 
