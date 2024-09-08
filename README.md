@@ -21,34 +21,46 @@
   </br>
   I'm currently working on budget app.
 
-- 🌱 Изучаю React, совершенствую TS.
+- 🌱 Изучаю / Learning:
   </br>
-   Learning React, Firebase, Tailwind, improving TS.
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+  </br>
+  Совершенствую / Mastering:
+  </br>
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 
 - 👯 Ищу проекты на Vue3 или React для совместной работы.
 </br>I’m looking to collaborate on Vue3 or React projects
 
 - 📫 Мои контакты \ How to reach me :
   </br>
-  telegram: https://telegram.me/peter_losev
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white): [PetrLosev](https://telegram.me/peter_losev)
   </br>
-  phone: +7 (906) 436-74-09
+
+  ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white) / phone: +7 (906) 436-74-09
 
 
-- Codewars: [![codewars](https://www.codewars.com/users/drraga/badges/small)](https://www.codewars.com/users/drraga) 
+- Codewars: [![codewars](https://www.codewars.com/users/drraga/badges/micro)](https://www.codewars.com/drraga/username) 
 
 
 ---
 My Stack:
 </br>
 <p display="flex" justify-content="space-between">
-  JS, TypeScript, Vue3, Nuxt3, Pinia, Vuex, SASS, HTML/CSS, Git, Vite
   
-  <img float="right" width=200 src="https://raw.githubusercontent.com/kirklin/kirklin/main/img/code.gif" />
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
+  ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=plastic&logo=nuxtdotjs&logoColor=#00DC82)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
+  ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=plastic&logo=strapi&logoColor=white)
+  
+  <img align="right-top" width=200 src="https://raw.githubusercontent.com/kirklin/kirklin/main/img/code.gif" />
 </p>
 
-<div class="stack-container">
-  <p>JS, TypeScript, Vue3, Nuxt3, Pinia, Vuex, SASS, HTML/CSS, Git, Vite</p>
-  <img width="200" src="https://raw.githubusercontent.com/kirklin/kirklin/main/img/code.gif" />
-</div>
----
