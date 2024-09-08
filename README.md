@@ -2,17 +2,6 @@
 
 <img align="top" width=30 src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" /> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Peter+Losev)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=drraga)
-<p display="flex">
-  <a href="https://github.com/drraga/convoychat">
-    <img height=130 src="https://github-readme-stats.vercel.app/api?username=drraga&theme=vue-dark&show_icons=true&hide_rank=true&card_width=300" />
-  </a>
-
-  <a href="https://github.com/drraga/convoychat">
-    <img height=130  src="https://github-readme-stats.vercel.app/api/top-langs?username=drraga&layout=compact&langs_count=8&card_width=300" />
-  </a>
-</p>
-
 - Ищу работу фронтенд-разработчиком удаленно или в г.Новороссийск.
   </br>
   Looking for remote job as frontend-developer.
@@ -47,7 +36,7 @@
 
 - Codewars: [![codewars](https://www.codewars.com/users/drraga/badges/micro)](https://www.codewars.com/drraga/username) 
 
-
+![](https://komarev.com/ghpvc/?username=drraga)
 ---
 My Stack:
 </br>
@@ -63,7 +52,17 @@ My Stack:
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
   ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=plastic&logo=strapi&logoColor=white)
-  
-  <img align="right-top" width=200 src="https://raw.githubusercontent.com/kirklin/kirklin/main/img/code.gif" />
+
+  <p display="flex" justify="space-between">
+  <a href="https://github.com/drraga/convoychat">
+    <img height=130 src="https://github-readme-stats.vercel.app/api?username=drraga&theme=vue-dark&show_icons=true&hide_rank=true&card_width=300" />
+  </a>
+
+  <a href="https://github.com/drraga/convoychat">
+    <img height=130  src="https://github-readme-stats.vercel.app/api/top-langs?username=drraga&layout=compact&langs_count=8&card_width=300" />
+  </a>
+
+  <img align="right-top" height=130 src="https://raw.githubusercontent.com/kirklin/kirklin/main/img/code.gif" />
+</p>
 </p>
 
