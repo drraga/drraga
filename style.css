@@ -1,3 +1,8 @@
 .coding {
   border-radius: 6px;
 }
+
+.stack-container {
+  display: flex;
+  justify-content: space-between;
+}
