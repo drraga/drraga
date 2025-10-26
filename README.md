@@ -31,7 +31,7 @@
   </br>
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white): [PetrLosev](https://telegram.me/peter_losev)
   </br>
-
+  
   ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white) / phone: +7 (906) 436-74-09
 
 
